@@ -1,0 +1,16 @@
+#vbtn{
+    background-image: linear-gradient(to right,rgb(241, 6, 186),rgb(133, 29, 244));
+    color:white;
+    font-weight: 600;
+}
+#dbtn{
+    background-image: linear-gradient(to right,rgb(19, 112, 7),rgb(122, 8, 12));
+    color: #fff;
+    font-weight: 600;
+}
+.invoice-container{
+    background-color: #fff;
+    padding: 20px;
+    border:2px solid black;
+    border-radius: 10px;
+}
